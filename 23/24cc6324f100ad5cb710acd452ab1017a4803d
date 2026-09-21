@@ -1,0 +1,21 @@
+httpx2_jsfetch/__init__.py
+  s_3ee6a02eb318e1::t_ad100474784d38 67-90,221,468-469
+tests/conftest.py
+  s_3ee6a02eb318e1::t_9c7db60654989f 5,40-41,122-137
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "2324cc6324f100ad5cb710acd452ab1017a4803d",
+  "prompts": {},
+  "sessions": {
+    "s_3ee6a02eb318e1": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_f3d431adeffez1qFZtsUk9yG9l",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "Gyeongjae Choi <gyeongjae@cloudflare.com>"
+    }
+  }
+}
